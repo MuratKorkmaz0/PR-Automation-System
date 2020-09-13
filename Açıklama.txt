@@ -1,0 +1,1 @@
+Txt dosya yolu C diskinin ana dizininde (C:\Kayıtlar) bulunmakta.
