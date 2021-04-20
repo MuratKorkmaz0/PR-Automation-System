@@ -1,4 +1,4 @@
-# PR-Automation-System,
+# PR-Automation-System
 
 ![blog_feature_IT_Careers_072015](https://user-images.githubusercontent.com/59292099/115403605-3f89ff80-a1f5-11eb-9846-8b5121b2b191.jpg)
 
